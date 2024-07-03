@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@wordpress/scripts": "^28.2.0",
+    "react-router-dom": "^6.24.0"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  }
+}
